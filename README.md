@@ -36,7 +36,7 @@ Here are some of my favorite projects:
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
-[![X Twitter](https://img.shields.io/twitter/url)](https://x.com/GaetanSlrt)
+[![X Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GaetanSlrt)
 
 Let me know:
 1. What tools or frameworks you want to highlight.
