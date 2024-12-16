@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 💻 Passionate about AI & software development.
 - 📚 I love exploring all kind of projects.
 
-## 🛠️ Tech Stack
+## 🤖 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-F7DF1E?logo=HTML5&logoColor=black&style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
