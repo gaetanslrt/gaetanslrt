@@ -28,8 +28,8 @@ Here are some of my favorite projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=radical)  
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/gaetan-suillerot-294450327)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)]([https://twitter.com/yourusername](https://x.com/GaetanSlrt))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
+[![Twitter](https://img.shields.io/badge/-x-1DA1F2?logo=x&logoColor=white&style=flat-square)](https://twitter.com/yourusername](https://x.com/GaetanSlrt))
 
 Let me know:
 1. What tools or frameworks you want to highlight.
