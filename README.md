@@ -30,9 +30,9 @@ Here are some of my favorite projects:
 - 🔗 [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
 - 🔗 [WhiteSloth Search](https://github.com/gaetanslrt/whitesloth-search): a lazy seach engine.
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=radical)  -->
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
