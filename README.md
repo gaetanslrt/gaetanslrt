@@ -11,18 +11,18 @@ Welcome to my GitHub profile! Here's a little about me:
 - 📚 I love exploring all kind of projects.
 
 ## 🤖 Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-F7DF1E?logo=HTML5&logoColor=black&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-F7DF1E?logo=HTML5&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?logo=flutter&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?logo=flutter&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
 
 ## 🚀 Projects
