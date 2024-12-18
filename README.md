@@ -38,9 +38,4 @@ Here are some of my favorite projects:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
 [![X Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GaetanSlrt)
 
-Let me know:
-1. What tools or frameworks you want to highlight.
-2. Key projects or achievements you'd like to showcase.
-3. Links to your socials or portfolio to include.
-
-I can personalize it further based on your preferences! 🌿
+If you have a project to improve, develop, or even just an idea you'd like to explore, feel free to contact me! 🌿
