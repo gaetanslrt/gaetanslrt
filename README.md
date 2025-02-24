@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Gaetan
+# 👈 Yep, that's me.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
 
