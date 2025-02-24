@@ -5,10 +5,10 @@
 Welcome to my GitHub profile! Here's a little about me:  
 
 ## 🌟 About Me
-- 🎓 I'm a student at EPITA.
+- 🎓 Student at EPITA.
 - 🌱 Currently learning IT & computer science.
 - 💻 Passionate about AI & software development.
-- 📚 I love exploring all kind of projects.
+- 📚 Love all kind of projects.
 
 ## 🤖 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-F7DF1E?logo=HTML5&logoColor=white&style=flat-square)
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 
 ## 🚀 Projects
-Here are some of my favorite projects:
+Favorite projects:
 - 🔗 [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
 - 🔗 [WhiteSloth Search](https://github.com/gaetanslrt/whitesloth-search): a lazy seach engine.
 
@@ -34,8 +34,8 @@ Here are some of my favorite projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=radical)  -->
 
-## 🤝 Connect with Me
+## 🤝 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
 [![X Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GaetanSlrt)
 
-If you have a project to improve, develop, or even just an idea you'd like to explore, feel free to contact me! 🌿
+If you have a project idea feel free to contact me.
