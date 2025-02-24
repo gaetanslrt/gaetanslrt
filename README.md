@@ -2,10 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
 
-## 🌟 About Me
+## About Me
 - 🎓 Student at EPITA.
 - 🌱 Currently learning IT & computer science.
-- 💻 Passionate about AI & software development.
+- 💻 AI, software dev, blockchain web3 tech.
 - 📚 Love all kind of projects.
 
 ## 🤖 Tech Stack
@@ -23,8 +23,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
 
-## 🚀 Projects
-Favorite projects:
+## Projects
 - 🔗 [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
 - 🔗 [WhiteSloth Search](https://github.com/gaetanslrt/whitesloth-search): a lazy seach engine.
 
@@ -32,7 +31,7 @@ Favorite projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=radical)  -->
 
-## 🤝 Contact
+## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
 [![X Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GaetanSlrt)
 
