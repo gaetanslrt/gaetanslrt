@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
 
-Welcome to my GitHub profile! Here's a little about me:  
-
 ## 🌟 About Me
 - 🎓 Student at EPITA.
 - 🌱 Currently learning IT & computer science.
