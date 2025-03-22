@@ -36,16 +36,10 @@
 ![XRP](https://img.shields.io/badge/XRP-25A768?logo=xrp&logoColor=fff)
 ![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)
 
-
-
-
-
-
-
-
 ## Projects
 - 🔗 [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
-- 🔗 [WhiteSloth Search](https://github.com/gaetanslrt/whitesloth-search): a lazy seach engine.
+- 🔗 [WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.
+- 🔗 [Horizon](https://horizonapp.pages.dev): a modern weather app.
 
 <!-- ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=radical)  
