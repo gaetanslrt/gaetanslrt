@@ -40,7 +40,7 @@
 - 🔗 [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
 - 🔗 [WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.
 - 🔗 [Horizon](https://horizonapp.pages.dev): a modern weather app.
-- 🔗 [MedPDFGEN](https://medpdfgen): a medical status document generator tool.
+- 🔗 [MedPdfGen](https://medpdfgen.pages.dev): a medical status document generator tool.
 
 <!-- ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=radical)  
