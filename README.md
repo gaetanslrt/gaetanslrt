@@ -6,7 +6,7 @@
 - 🎓 Student at EPITA.
 - 🌱 Currently learning IT & computer science.
 - 💻 AI, software dev, blockchain web3 tech.
-- 📚 Love all kind of projects.
+- 📚 Like all kind of projects.
 
 ## Technical Stack
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
