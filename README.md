@@ -34,7 +34,6 @@
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 <br>
-![Coinbase](https://img.shields.io/badge/Coinbase-0052FF.svg?style=for-the-badge&logo=Coinbase&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
 ## Projects
