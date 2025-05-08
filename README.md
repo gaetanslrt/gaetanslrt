@@ -32,9 +32,8 @@
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 <br>
-![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)
-![XRP](https://img.shields.io/badge/XRP-25A768?logo=xrp&logoColor=fff)
-![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)
+![Coinbase](https://img.shields.io/badge/Coinbase-0052FF.svg?style=for-the-badge&logo=Coinbase&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
 ## Projects
 - 🔗 [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
