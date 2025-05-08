@@ -8,7 +8,7 @@
 - 💻 AI, software dev, blockchain web3 tech.
 - 📚 Love all kind of projects.
 
-## Tech Stack
+## Technical Stack
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
@@ -23,6 +23,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-123F6D.svg?style=for-the-badge&logo=OVH&logoColor=white)
 <br>
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
