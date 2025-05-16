@@ -2,13 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
 
-## About Me
-- 🎓 Student at EPITA.
-- 🌱 Currently learning IT & computer science.
-- 💻 AI, software dev, blockchain web3 tech.
-- 📚 Like all kind of projects.
+Student at @epita. Dev of @ScribocracyApp. Love all kind of stuff.
 
-## Technical Stack
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
@@ -49,5 +44,3 @@
 ## Contact
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
 [![X Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GaetanSlrt)
-
-If you have a project idea feel free to contact me.
