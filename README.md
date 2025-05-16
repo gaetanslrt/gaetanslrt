@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
 
 ## Bio
-Student at @epita. Dev of @ScribocracyApp. Love all kind of stuff.
+Student at epita. Dev of Scribocracy. Love all kind of stuff.
 
 ## Tools I know
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
