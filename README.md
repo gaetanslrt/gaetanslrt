@@ -2,8 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
 
+## Bio
 Student at @epita. Dev of @ScribocracyApp. Love all kind of stuff.
 
+## Tech skills
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
