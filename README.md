@@ -1,6 +1,6 @@
 # Hi 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) (👀wow that's a lot...)
 
 ## Bio
 Student at epita. Learning CS & finance. Love all kind of stuff.
