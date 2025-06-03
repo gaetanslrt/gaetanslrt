@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
