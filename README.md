@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
 ## Bio
-Student at epita. Learning CS & finance. Love all kind of stuff.
+Learning CS & finance. Love all kind of stuff.
 
 ## Tools I know
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
