@@ -34,14 +34,13 @@ Learning CS & finance. Love all kind of stuff.
 ![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
 ## Projects
- [Scribocracy](https://www.scribocracy.com): the simplest note-taking app.
- [WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.
- [Horizon](https://horizonapp.pages.dev): a modern weather app.
- [MedPdfGen](https://medpdfgen.pages.dev): a medical status document generator tool.
+[Scribocracy](https://www.scribocracy.com): the simplest note-taking app.<br>
+[WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.<br>
+[Horizon](https://horizonapp.pages.dev): a modern weather app.<br>
+[MedPdfGen](https://medpdfgen.pages.dev): a medical status document generator tool.
 
-<!-- ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=radical)  -->
+## Follow Me
+Twitter/X : @gaetanslrt (https://x.com/gaetanslrt)
 
 ## Contact
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
