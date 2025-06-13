@@ -21,8 +21,8 @@ CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of s
 ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D.svg?style=for-the-badge&logo=OVH&logoColor=white)
 <br>
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 <br>
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
