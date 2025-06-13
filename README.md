@@ -25,8 +25,8 @@ CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of s
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 <br>
-![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+![Google Play Store](https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 <br>
 ![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
