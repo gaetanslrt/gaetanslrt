@@ -4,7 +4,7 @@ CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of s
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
 ## Tools
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Bash]([https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white))
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
