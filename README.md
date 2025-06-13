@@ -25,7 +25,6 @@ CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of s
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 <br>
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 <br>
