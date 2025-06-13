@@ -1,6 +1,6 @@
 ## About
 CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of stuff.
-
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
 ## Tools
