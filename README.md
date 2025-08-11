@@ -1,7 +1,7 @@
 ## About
 CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of stuff.
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
 
 ## Tools
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
