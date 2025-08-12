@@ -1,5 +1,5 @@
 ## About
-CS & finance. Dev of [Scribocracy](https://scribocracy.com/). Love all kind of stuff.
+CS & finance. Dev of [Scribocracy](https://scribocracy.com/).
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
 
