@@ -14,7 +14,6 @@ CS & finance. Dev of [Scribocracy](https://scribocracy.com/).
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)
-<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
