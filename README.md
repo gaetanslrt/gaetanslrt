@@ -1,5 +1,5 @@
 ## About
-CS & finance. Dev of [Scribocracy](https://scribocracy.com/).
+Learning CS. Dev of [Scribocracy](https://scribocracy.com/).
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
 
@@ -33,9 +33,5 @@ CS & finance. Dev of [Scribocracy](https://scribocracy.com/).
 [MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.<br>
 [AlphaZuluSpotting](https://alphazuluspotting.pages.dev): a planespotting site managed by a private photographer
 
-## Follow Me
-Twitter/X : @gaetanslrt (https://x.com/gaetanslrt)
-
 ## Contact
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
-[![X Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GaetanSlrt)
