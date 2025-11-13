@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=tokyonight">
 
-<h1>Skills</h1>
+<h2>🔋 Skills</h2>
 <div align=center>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white">
 </div>
 
-<h1>Projects</h1>
+<h2>🏎️ Projects</h2>
 <ul>
   <li><a href="https://scribocracy.com">Scribocracy</a> — the simplest note-taking application.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
@@ -41,7 +41,7 @@
   <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
 </ul>
 
-<h3>Let's get in touch</h3>
+<h2>💬 Let's get in touch</h2>
 
 <a href="https://x.com/gaetanslrt">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
