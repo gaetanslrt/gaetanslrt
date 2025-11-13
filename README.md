@@ -1,7 +1,7 @@
-<h1>🎓 Student at [EPITA](https://epita.fr).<h1><br>
-<h1>🤖 Learning CS, physics and finance (yeah what a mix)</h1>.<br>
-<h1>🚀 Passionate about aerospace technologies.</h1><br>
-<h1>📝 Creator of [Scribocracy](https://scribocracy.com/).</h1><br>
+<h2>🎓 Student at [EPITA](https://epita.fr).<h2><br>
+<h2>🤖 Learning CS, physics and finance (yeah what a mix)</h2>.<br>
+<h2>🚀 Passionate about aerospace technologies.</h2><br>
+<h2>📝 Creator of <a href="https://scribocracy.com/">Scribocracy</a></h2><br>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
 
