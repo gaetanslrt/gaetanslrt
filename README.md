@@ -34,5 +34,5 @@ Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah wha
 [AlphaZuluSpotting](https://alphazuluspotting.pages.dev): a planespotting site managed by a private photographer
 
 ## Contact
-[![X](https://img.shields.io/badge/X-gaetanslrt.svg?logo=X&logoColor=white)](https://gaetanslrt)
+[![X](https://img.shields.io/badge/X.svg?logo=X&logoColor=white)](https://gaetanslrt)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
