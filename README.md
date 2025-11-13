@@ -1,7 +1,7 @@
 ## About
-Learning CS. Dev of [Scribocracy](https://scribocracy.com/).
+Student at EPITA(https://epita.fr). Learning CS, physics and finance (yeah what a mix). Passionate about aerospace technologies. Dev of Scribocracy(https://scribocracy.com/).
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
+![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
 ## Tools
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
