@@ -1,5 +1,5 @@
 ## About
-Student at EPITA(https://epita.fr). Learning CS, physics and finance (yeah what a mix). Passionate about aerospace technologies. Dev of Scribocracy(https://scribocracy.com/).
+Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah what a mix). Passionate about aerospace technologies. Dev of [Scribocracy](https://scribocracy.com/).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
