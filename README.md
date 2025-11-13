@@ -28,8 +28,8 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
-## Projects
-<h1><a href="scribocracy.com">Scribocracy</a> - the simplest note-taking application.</h1>
+<h2>Projects</h2>
+<h3><a href="https://scribocracy.com">Scribocracy</a> - the simplest note-taking application.</h3><br>
 [WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.<br>
 [Horizon](https://horizonapp.pages.dev): a modern weather app.<br>
 [MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.<br>
