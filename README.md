@@ -44,7 +44,7 @@
 <h2>💬 Let's get in touch</h2>
 
 <a href="https://x.com/gaetanslrt">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=black" alt="gaetanslrt">
 </a>
 <a href="https://www.linkedin.com/in/gaetan-suillerot/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
