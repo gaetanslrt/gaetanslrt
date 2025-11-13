@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white">
 </div>
 
-<h2>🏎️ Projects</h2>
+<h2>🎯 Projects</h2>
 <ul>
   <li><a href="https://scribocracy.com">Scribocracy</a> — the simplest note-taking application.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
