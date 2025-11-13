@@ -29,7 +29,7 @@
 ![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
 ## Projects
-[Scribocracy](https://www.scribocracy.com): the simplest note-taking app.<br>
+<h1>[Scribocracy](https://www.scribocracy.com): the simplest note-taking app.</h1><br>
 [WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.<br>
 [Horizon](https://horizonapp.pages.dev): a modern weather app.<br>
 [MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.<br>
