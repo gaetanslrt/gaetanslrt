@@ -1,4 +1,4 @@
-<h2>🎓 Student at [EPITA](https://epita.fr)<h2>
+<h2>🎓 Student at @EPITA<h2>
 <h2>🤖 Learning CS, physics and finance (yeah what a mix)</h2>
 <h2>🚀 Passionate about aerospace technologies</h2><br>
 <h2>📝 Creator of <a href="https://scribocracy.com/">Scribocracy</a></h2>
