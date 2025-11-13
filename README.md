@@ -1,7 +1,11 @@
-Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah what a mix). Passionate about aerospace technologies. Creator of [Scribocracy](https://scribocracy.com/).
+Student at [EPITA](https://epita.fr). 
+Learning CS, physics and finance (yeah what a mix). 
+Passionate about aerospace technologies. 
+Creator of [Scribocracy](https://scribocracy.com/).
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
 
+## Skills
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -31,6 +35,6 @@ Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah wha
 [MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.<br>
 [AlphaZuluSpotting](https://alphazuluspotting.pages.dev): a planespotting site managed by a private photographer
 
-## Contact
+## Let's get in touch
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gaetanslrt)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetan-suillerot/)
