@@ -1,5 +1,5 @@
 ## About
-Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah what a mix). Passionate about aerospace technologies. Dev of [Scribocracy](https://scribocracy.com/).
+Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah what a mix). Passionate about aerospace technologies. Creator of [Scribocracy].(https://scribocracy.com/).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue)
 
@@ -34,4 +34,5 @@ Student at [EPITA](https://epita.fr). Learning CS, physics and finance (yeah wha
 [AlphaZuluSpotting](https://alphazuluspotting.pages.dev): a planespotting site managed by a private photographer
 
 ## Contact
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://x.com/gaetanslrt)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gaetan-suillerot-294450327)
