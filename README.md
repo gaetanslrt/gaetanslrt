@@ -2,6 +2,7 @@
 <p>🤖 Learning CS, physics and finance (yeah what a mix)<br>
 🚀 Passionate about aerospace technologies<br>
 📝 Creator of <a href="https://scribocracy.com/">Scribocracy</a></p>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=tokyonight">
