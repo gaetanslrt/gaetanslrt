@@ -5,7 +5,7 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gaetanslrt&color=blue) -->
 
-<h3>Skills</h3>
+<h1>Skills</h1>
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -28,13 +28,13 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131622.svg?style=for-the-badge&logo=TradingView&logoColor=white)
 
-<h2>Projects</h2>
-<h3><a href="https://scribocracy.com">Scribocracy</a> - the simplest note-taking application.</h3><br>
-[WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.<br>
-[Horizon](https://horizonapp.pages.dev): a modern weather app.<br>
-[MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.<br>
+<h1>Projects</h1>
+<h3><a href="https://scribocracy.com">Scribocracy</a> - the simplest note-taking application.</h3>
+[WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.
+[Horizon](https://horizonapp.pages.dev): a modern weather app.
+[MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.
 [AlphaZuluSpotting](https://alphazuluspotting.pages.dev): a planespotting site managed by a private photographer
 
-## Let's get in touch
+<h3>Let's get in touch</h3>
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gaetanslrt)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetan-suillerot/)
