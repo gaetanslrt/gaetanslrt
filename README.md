@@ -31,11 +31,16 @@
 
 <h1>Projects</h1>
 <a href="https://scribocracy.com">Scribocracy</a> - the simplest note-taking application.
-[WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.
-[Horizon](https://horizonapp.pages.dev): a modern weather app.
-[MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.
-[AlphaZuluSpotting](https://alphazuluspotting.pages.dev): a planespotting site managed by a private photographer
+<a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a>: a lazy search engine.<br>
+<a href="https://horizonapp.pages.dev">Horizon</a>: a modern weather app.<br>
+<a href="https://meditrackpro.pages.dev">MediTrackPro</a>: a medical status document generator tool.<br>
+<a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a>: a planespotting site managed by a private photographer.<br><br>
 
 <h3>Let's get in touch</h3>
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gaetanslrt)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetan-suillerot/)
+
+<a href="https://x.com/gaetanslrt">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
+<a href="https://www.linkedin.com/in/gaetan-suillerot/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
