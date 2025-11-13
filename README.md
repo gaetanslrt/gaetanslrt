@@ -30,7 +30,7 @@
 
 
 <h1>Projects</h1>
-<h3><a href="https://scribocracy.com">Scribocracy</a> - the simplest note-taking application.</h3>
+<a href="https://scribocracy.com">Scribocracy</a> - the simplest note-taking application.
 [WhiteSloth Search](https://whitesloth-search.pages.dev): a lazy seach engine.
 [Horizon](https://horizonapp.pages.dev): a modern weather app.
 [MediTrackPro](https://meditrackpro.pages.dev): a medical status document generator tool.
