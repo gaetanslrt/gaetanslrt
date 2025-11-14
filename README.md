@@ -46,6 +46,7 @@
 <a href="https://x.com/gaetanslrt" style="text-decoration: none">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
 </a>
+
 <a href="https://www.linkedin.com/in/gaetan-suillerot/" style="text-decoration: none">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
