@@ -35,7 +35,7 @@
 
 <h2>🎯 Projects</h2>
 <ul>
-  <li><a href="https://scribocracy.com" style="text-decoration: none; color=green">Scribocracy</a> — the simplest note-taking application.</li>
+  <li><a href="https://scribocracy.com" style="text-decoration: none; color='green'">Scribocracy</a> — the simplest note-taking application.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
   <li><a href="https://meditrackpro.pages.dev">MediTrackPro</a> — a medical document generator tool.</li>
