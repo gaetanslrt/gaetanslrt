@@ -1,6 +1,5 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
-<p>🤖 Learning CS, physics and finance (yeah what a mix)<br>
-🚀 Passionate about new technologies<br>
+<p>🤖 Learning Computer Science and new technologies<br>
 📝 Creator of <a href="https://scribocracy.com/">Scribocracy</a></p>
 <br>
 
