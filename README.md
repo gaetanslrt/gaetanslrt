@@ -1,6 +1,6 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
 <p>🤖 Learning Computer Science and new technologies<br>
-📝 Creator of <a href="https://scribocracy.com/">Scribocracy</a></p>
+📝 <a href="https://scribocracy.com/">Scribocracy</a></p>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=tokyonight">
