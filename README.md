@@ -3,9 +3,6 @@
 📝 <a href="https://scribocracy.com/">Scribocracy</a></p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaetanslrt&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanslrt&layout=compact&theme=tokyonight">
-
 <h2>🔋 Skills</h2>
 <div align=center>
 
