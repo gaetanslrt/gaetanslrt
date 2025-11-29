@@ -1,8 +1,6 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
 <p>🤖 Learning Computer Science and new technologies<br>
 📝 <a href="https://scribocracy.com/">Scribocracy</a></p>
-<br>
-
 <h2>🔋 Skills</h2>
 <div align=center>
 
