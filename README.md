@@ -34,7 +34,7 @@
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
   <li><a href="https://meditrackpro.pages.dev">MediTrackPro</a> — a medical document generator tool.</li>
   <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
-  <li><a href="https://finance-gaetan-suillerot.pages.dev">note-gaetan-suillerot</a> - Notes personnelles en finance</li>
+  <li><a href="https://finance-gaetan-suillerot.pages.dev">finance-gaetan-suillerot</a> - Notes personnelles en finance</li>
 </ul>
 
 <h2>💬 Let's get in touch</h2>
