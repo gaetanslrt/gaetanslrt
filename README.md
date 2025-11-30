@@ -31,6 +31,7 @@
 <h2>🏢 Experience</h2>
 <ul>
   Developer, Redheberg
+  Founder, Scribocracy
 </ul>
 
 <h2>🎯 Projects</h2>
