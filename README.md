@@ -34,8 +34,10 @@
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
   <li><a href="https://meditrackpro.pages.dev">MediTrackPro</a> — a medical document generator tool.</li>
   <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
-  <li><a href="https://finance-gaetan-suillerot.pages.dev">finance-gaetan-suillerot</a> - notes personnelles en finance</li>
-  <li><a href="https://github.com/gaetanslrt/submitool">Submitool</a> - Tool for pushing changes to a local repository online more quickly. Dedicated to EPITA students.</li>
+  <li><a href="https://finance-gaetan-suillerot.pages.dev">finance-gaetan-suillerot</a> - notes personnelles en finance.</li>
+  <li><a href="https://github.com/gaetanslrt/submitool">Submitool</a> - Tool for pushing changes to a local repository online more quickly. Dedicated to EPITA working environment.</li>
+  <li>OCR Tool (Optical Recognition Characters) - Optical recognition software automatically solving word search puzzles.</li>
+  <li>Lost Memories Unity Game - Team multiplayer game developed with C# and Unity, with network synchronization.</li>
 </ul>
 
 <h2>💬 Let's get in touch</h2>
