@@ -1,6 +1,7 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
 <p>🤖 Learning Computer Science and new technologies<br>
-📝 <a href="https://scribocracy.com/">Scribocracy</a></p>
+<p>Feel free to contact me 💬</p>
+
 <h2>🔋 Skills</h2>
 <div align=center>
 
@@ -26,6 +27,8 @@
 <img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
+
+
 
 <h2>🎯 Projects</h2>
 <ul>
