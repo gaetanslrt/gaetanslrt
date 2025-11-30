@@ -28,7 +28,10 @@
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-
+<h2>🏢 Experience</h2>
+<ul>
+  Developer, Redheberg
+</ul>
 
 <h2>🎯 Projects</h2>
 <ul>
