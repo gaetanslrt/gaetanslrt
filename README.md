@@ -30,7 +30,7 @@
 
 <h2>🏢 Experience</h2>
 <ul>
-  Developer, Redheberg
+  Developer, Redheberg<br>
   Founder, Scribocracy
 </ul>
 
