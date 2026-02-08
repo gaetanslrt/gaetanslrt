@@ -32,7 +32,7 @@
 
 <h2>🎯 Projects</h2>
 <ul>
-  <li><a href="https://scribocracy.com">Scribocracy</a> — the simplest note-taking application.</li>
+  <li><a href="https://scribocracy.com">Scribocracy</a> — launching soon.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
   <li>MediTrack Pro - a medical document generator tool.</li>
