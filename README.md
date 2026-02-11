@@ -32,7 +32,7 @@
 
 <h2>🎯 Projects</h2>
 <ul>
-  <li><a href="https://scribocracy.com">Scribocracy</a> — launching soon.</li>
+  <li><a href="https://sicelity.com">Sicelity</a> — Know beyond the sky. Launching soon.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
   <li>MediTrack Pro - a medical document generator tool.</li>
