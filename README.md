@@ -1,6 +1,5 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
-<p>🤖 Learning Computer Science and new technologies<br>
-<p>Feel free to contact me 💬</p>
+<p>As a first-year student at the School of Computer Science and Advanced Technology in Paris (EPITA), I am passionate about innovation and new technological solutions. My experiences in this field confirm my desire to specialize in this sector and make it my profession.<br><br>I would like to put my rigorous approach to work on IT and digital transformation projects within a large-scale organization. I am currently looking for an internship from early September 2026 to late January 2027.</p>
 
 <h2>🔋 Skills</h2>
 <div align=center>
