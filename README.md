@@ -26,8 +26,8 @@
 
 <h2>🏢 Experience</h2>
 <ul>
-  Developer, Redheberg<br>
-  Founder, Scribocracy
+  ⭐ Founder, Sicelity<br>
+  👨‍💻 Developer, Redheberg
 </ul>
 
 <h2>🎯 Projects</h2>
