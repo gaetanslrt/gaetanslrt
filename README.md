@@ -1,5 +1,5 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
-<p>As a first-year student at the School of Computer Science and Advanced Technology in Paris (EPITA), I am passionate about innovation and new technological solutions. My experiences in this field confirm my desire to specialize in this sector and make it my profession.<br><br>I would like to put my rigorous approach to work on IT and digital transformation projects within a large-scale organization. I am currently looking for an internship from early September 2026 to late January 2027.</p>
+<p>As a first-year student at the School of Computer Science and Advanced Technology in Paris (EPITA), I am passionate about innovation and new technological solutions. My experiences in this field confirm my desire to specialize in this sector and make it my profession.</p>
 
 <h2>🔋 Skills</h2>
 <div align=center>
@@ -23,15 +23,8 @@
 <img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white">
 </div>
 
-<h2>🏢 Experience</h2>
-<ul>
-  ⭐ Founder, Sicelity<br>
-  👨‍💻 Developer, Redheberg
-</ul>
-
 <h2>🎯 Projects</h2>
 <ul>
-  <li><a href="https://sicelity.com">Sicelity</a> — Know beyond the sky. Launching soon.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
   <li>MediTrack Pro - a medical document generator tool.</li>
