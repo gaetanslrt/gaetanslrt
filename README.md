@@ -3,14 +3,14 @@
 
 <h2>🎯 Projects</h2>
 <ul>
+  <li>42sh - POSIX Shell interpreter with commands execution.</li>
+  <li>OCR Tool (Optical Recognition Characters) - Optical recognition software automatically solving word search puzzles.</li>
+  <li>MediTrack Pro - a medical document generator tool facilitating the work of healthcare professionals.</li>
+  <li>Lost Memories Unity Game - Team multiplayer game developed with C# and Unity, with network synchronization.</li>
+  <li>Submitool - Tool for pushing changes to a local repository online more quickly. Dedicated to EPITA working environment.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
-  <li>MediTrack Pro - a medical document generator tool.</li>
   <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
-  <li>42sh - POSIX Shell interpreter</li>
-  <li><a href="https://github.com/gaetanslrt/submitool">Submitool</a> - Tool for pushing changes to a local repository online more quickly. Dedicated to EPITA working environment.</li>
-  <li>OCR Tool (Optical Recognition Characters) - Optical recognition software automatically solving word search puzzles.</li>
-  <li>Lost Memories Unity Game - Team multiplayer game developed with C# and Unity, with network synchronization.</li>
 </ul>
 
 <h2>💬 Let's get in touch</h2>
