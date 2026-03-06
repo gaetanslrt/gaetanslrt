@@ -8,8 +8,8 @@
   <li>MediTrack Pro - a medical document generator tool facilitating the work of healthcare professionals.</li>
   <li>Lost Memories Unity Game - Team multiplayer game developed with C# and Unity, with network synchronization.</li>
   <li>Submitool - Tool for pushing changes to a local repository online more quickly. Dedicated to EPITA working environment.</li>
-  <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine.</li>
-  <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather app.</li>
+  <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine providing concise results based on DuckDuckGo API.</li>
+  <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather & forecasting mobile app.</li>
   <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
 </ul>
 
