@@ -3,11 +3,13 @@
 
 <h2>🎯 Projects</h2>
 <ul>
+  <li>Tiger Compiler - Developped a Tiger compiler in a team over 7 weeks.</li>
   <li>42sh - POSIX Shell interpreter with commands execution.</li>
-  <li>OCR Tool (Optical Recognition Characters) - Optical recognition software automatically solving word search puzzles.</li>
+  <li>OCR Tool (Optical Recognition Characters) - Optical recognition software automatically solving word search puzzles in C.</li>
   <li>MediTrack Pro - a medical document generator tool facilitating the work of healthcare professionals.</li>
   <li>Lost Memories Unity Game - Team multiplayer game developed with C# and Unity, with network synchronization.</li>
-  <li>Submitool - Tool for pushing changes to a local repository online more quickly. Dedicated to EPITA working environment.</li>
+  <li>Submitool - Tool for pushing changes to a local repository online more quickly built in bash. Dedicated to EPITA working environment.</li>
+  <li>Minimalist note-taking app - Built a high-performance note-taking app over 5 months with Flutter.</li>
   <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine providing concise results based on DuckDuckGo API.</li>
   <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather & forecasting mobile app.</li>
   <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
