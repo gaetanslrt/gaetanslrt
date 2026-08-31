@@ -1,5 +1,4 @@
 <h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
-<p>As a first-year student at the School of Computer Science and Advanced Technology in Paris (EPITA), I am passionate about innovation and new technological solutions. My experiences in this field confirm my desire to specialize in this sector and make it my profession.</p>
 
 <h2>🎯 Projects</h2>
 <ul>
