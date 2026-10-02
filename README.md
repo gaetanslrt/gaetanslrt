@@ -9,9 +9,9 @@
   <li>Minimalist note-taking app - Built a high-performance note-taking app over 5 months with Flutter.</li>
   <li>HTTP Server - Implemented a functional HTTP server handling concurrent connections and error management using Socket Programming.</li>
   <li>Hyperliquid Trading Bot - Built a fully automated trading bot running 24/7 on Hyperliquid using TradingView signals from a personal strategy on XAU/USD (Gold).</li>
-  <li><a href="https://whitesloth-search.pages.dev">WhiteSloth Search</a> — a lazy search engine providing concise results based on DuckDuckGo API.</li>
-  <li><a href="https://horizonapp.pages.dev">Horizon</a> — a modern weather & forecasting mobile app.</li>
-  <li><a href="https://alphazuluspotting.pages.dev">AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
+  <li>WhiteSloth Search</a> — a lazy search engine providing concise results based on DuckDuckGo API.</li>
+  <li>Horizon</a> — a modern weather & forecasting mobile app.</li>
+  <li>AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
 </ul>
 
 <h2>💬 Let's get in touch</h2>
