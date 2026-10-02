@@ -1,5 +1,3 @@
-<h2>🎓 Student at <a href="https://epita.fr/">EPITA</a></h2>
-
 <h2>🎯 Projects</h2>
 <ul>
   <li>Tiger Compiler - Developped a Tiger compiler in a team over 7 weeks.</li>
