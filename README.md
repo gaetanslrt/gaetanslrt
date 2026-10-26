@@ -8,7 +8,7 @@
   <li>Submitool - Coded a tool for pushing changes to a local repository online more quickly built in bash. Dedicated to EPITA working environment.</li>
   <li>Scribocracy - Built a high-performance note-taking app over 5 months. Handled the entire lifecycle from development to Google Play Store publication and user testing via Google Developer Console. Resulted in an app faster than any other note-taking tools, reaching over 100 downloads.</li>
   <li>HTTP Server - Implemented a functional HTTP server handling concurrent connections and error management using Socket Programming.</li>
-  <li>Hyperliquid Trading Bot - Built a fully automated trading bot running 24/7 on Hyperliquid using TradingView signals from a personal strategy on XAU/USD (Gold) backtested over a hundred trades providing an annual return around 10,000% in 2025.</li>
+  <li>Hyperliquid Trading Bot - Built a fully automated trading bot running 24/7 on Hyperliquid using TradingView signals from a personal strategy on XAU/USD (Gold) backtested over a hundred trades.</li>
   <li>WhiteSloth Search</a> — Minimalist search engine based on DuckDuckGo API, privacy-friendly.</li>
   <li>Horizon</a> — a modern weather & forecasting mobile app.</li>
   <li>AlphaZuluSpotting</a> — a planespotting site managed by a private photographer.</li>
